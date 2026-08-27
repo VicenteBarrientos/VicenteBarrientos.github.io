@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://vicentebarrientos.github.io/sitemap.xml
